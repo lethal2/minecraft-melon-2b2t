@@ -10,7 +10,7 @@ There are 4 folders of source codes for Melon 4.2, Melon 4.3, Melon 4.4, and Mel
 
 ## Important
 - I will **NOT** help you because this project is outdated now.
-- Maybe backdoors here, I never check the source codes.
+- its backdoored (clean it urself) (it also shits on ur pc btw)
 - If you want to get help and use modern hacks, visit [Snow Addon (on 1.20.1 and later)](https://github.com/XxHausemasterxX/SnowAddon).
 - Also a cracked Ching Chong client, [Lemon Client](https://github.com/XxHausemasterxX/lemon-client) (I cracked this and it's outdated now, play it without any supports).
 
